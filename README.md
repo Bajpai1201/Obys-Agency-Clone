@@ -1,6 +1,8 @@
 # Obys-Agency-Clone
 Obys Agency Clone
 
+
+
 Description
 
 The Obys Agency Clone is a responsive and fully animated web project built using HTML, CSS, and JavaScript, incorporating GSAP, ScrollTrigger, and Locomotive Scroll for smooth animations and seamless scrolling effects. This project replicates the interactive design of the original Obys agency website, delivering a dynamic user experience.
@@ -30,10 +32,6 @@ ScrollTrigger (for scroll-based animations)
 Locomotive Scroll (for smooth scrolling effects)
 
 Installation & Usage
-
-Clone the repository:
-
-git clone https://Bajpai1201/obys-agency-clone.git
 
 Navigate to the project folder:
 
